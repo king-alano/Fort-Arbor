@@ -7,7 +7,9 @@
 #ifndef PLAYER_H
 #define PLAYER_H
 
-
+//the Player is a special Character who has an inventory and gold
+//when the RPG has actual activities like battle or hunting they will be done using the
+//Player object
 
 
 #include <iostream>
